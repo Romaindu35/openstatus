@@ -14,15 +14,7 @@ export default async function Page() {
   return (
     <MarketingLayout>
       <div className="grid gap-12">
-        <Hero />
-        <Partners />
-        <MonitoringCard />
-        <Stats />
-        <MiddleCTA />
-        <StatusPageCard />
-        <AlertCard />
-        <BottomCTA />
-        <LatestChangelogs />
+        <p>Romaindu35 - Custom</p>
       </div>
     </MarketingLayout>
   );
